@@ -3,6 +3,7 @@ Link tải Client
 https://mega.nz/file/Dsw0yCYI#fvlEy48gdXrpPdxK_ZhNmsGkSnj5GkCuWjJkqx36G9s
 
 =========================================================
+
 MODE GAME
 - SPYMODE
 - LADDER
@@ -12,7 +13,9 @@ MODE GAME
 - TURBO
 - INFECTD
 - SKILL MAP
+  
 ==========================================================
+
  Tính Năng
 - Tạo Clan 1 người
 - Update ranking LADDER, CLAN WAR
