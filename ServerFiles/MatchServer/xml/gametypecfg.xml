@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<GAMETYPE id="0">	<!-- GAMETYPE_DEATHMATCH_SOLO -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />
+	</GAMETYPE>
+
+	<GAMETYPE id="1">	<!-- GAMETYPE_DEATHMATCH_TEAM -->
+		<ROUNDS    round="10"	str="10" />
+		<ROUNDS    round="20"	str="20" />
+		<ROUNDS    round="30"	str="30" default="true" />
+		<ROUNDS    round="50"	str="50" />
+		<ROUNDS    round="70"	str="70" />
+		<ROUNDS    round="100"	str="100" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="2">	<!-- GAMETYPE_GLADIATOR_SOLO -->
+		<ROUNDS    round="10"	str="10" />
+		<ROUNDS    round="20"	str="20" />
+		<ROUNDS    round="30"	str="30" />
+		<ROUNDS    round="50"	str="50" default="true" />
+		<ROUNDS    round="70"	str="70" />
+		<ROUNDS    round="100"	str="100" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="3">	<!-- GAMETYPE_GLADIATOR_TEAM -->
+		<ROUNDS    round="10"	str="10" />
+		<ROUNDS    round="20"	str="20" />
+		<ROUNDS    round="30"	str="30" default="true" />
+		<ROUNDS    round="50"	str="50" />
+		<ROUNDS    round="70"	str="70" />
+		<ROUNDS    round="100"	str="100" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="4">	<!-- GAMETYPE_ASSASSINATE -->
+		<ROUNDS    round="10"	str="10" />
+		<ROUNDS    round="20"	str="20" />
+		<ROUNDS    round="30"	str="30" default="true" />
+		<ROUNDS    round="50"	str="50" />
+		<ROUNDS    round="70"	str="70" />
+		<ROUNDS    round="100"	str="100" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="5">	<!-- GAMETYPE_TRAINING -->
+		<ROUNDS    round="10"	str="10" />
+		<ROUNDS    round="20"	str="20" />
+		<ROUNDS    round="30"	str="30" />
+		<ROUNDS    round="50"	str="50" default="true" />
+		<ROUNDS    round="70"	str="70" />
+		<ROUNDS    round="100"	str="100" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="6">	<!-- GAMETYPE_SURVIVAL -->
+		<ROUNDS    round="1"	str="---" default="true" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" default="true" />
+		<MAXPLAYERS player="1"  str="1" />
+		<MAXPLAYERS player="2"  str="2" />
+		<MAXPLAYERS player="3" str="3" />
+		<MAXPLAYERS player="4" str="4" default="true"/>
+		<MAXPLAYERS player="5" str="5" />
+		<MAXPLAYERS player="6" str="6" />	
+		<MAXPLAYERS player="7" str="7" />
+		<MAXPLAYERS player="8" str="8" />
+	</GAMETYPE>
+
+	<GAMETYPE id="7">	<!-- GAMETYPE_QUEST -->
+		<ROUNDS    round="1"	str="---" default="true" />
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="1"  str="1" />
+		<MAXPLAYERS player="2"  str="2" />
+		<MAXPLAYERS player="3" str="3" />
+		<MAXPLAYERS player="4" str="4" default="true"/>
+		<MAXPLAYERS player="5" str="5" />
+		<MAXPLAYERS player="6" str="6" />	
+		<MAXPLAYERS player="7" str="7" />
+		<MAXPLAYERS player="8" str="8" />
+	</GAMETYPE>
+
+	<GAMETYPE id="8">	<!-- GAMETYPE_BERSERKER -->
+		<ROUNDS    round="10"	str="10" />
+		<ROUNDS    round="20"	str="20" />
+		<ROUNDS    round="30"	str="30" />
+		<ROUNDS    round="50"	str="50" default="true" />
+		<ROUNDS    round="70"	str="70" />
+		<ROUNDS    round="100"	str="100" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="9">	<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+		<ROUNDS round="10"	str="10" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" default="true" /> 
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="10">	<!-- GAMETYPE_DEATHMATCH_DUEL -->
+		<ROUNDS    round="10"	str="10" />
+		<ROUNDS    round="15"	str="15" />
+		<ROUNDS    round="20"	str="20" default="true" />
+		<ROUNDS    round="25"	str="25" />
+		<ROUNDS    round="30"	str="30" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="12">	<!-- GAMETYPE_CTF -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="13">	<!-- GAMETYPE_CLASSIC_SOLO -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="14">	<!-- GAMETYPE_CLASSIC_TEAM -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>	
+
+	<GAMETYPE id="15">	<!-- GAMETYPE_CLASSIC_VAMPIRE -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="16">	<!-- GAMETYPE_PAINTBALL -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>	
+
+	<GAMETYPE id="17">	<!-- GAMETYPE_PAINTBALL_TEAM -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>	
+
+	<GAMETYPE id="18">    <!-- GAMETYPE_MODESTAFF -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>
+
+	<GAMETYPE id="19">    <!-- GAMETYPE_SNIPERMODE -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />	
+	</GAMETYPE>	
+
+	<GAMETYPE id="20">    <!-- GAMETYPE_INFECTED -->
+		<ROUNDS round="5"	str="5" default="true" /> 
+		<ROUNDS round="15"	str="15" />  
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />	
+	</GAMETYPE>	
+
+	<GAMETYPE id="21">    <!-- GAMETYPE_GUNGAME -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" />  
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+	</GAMETYPE>		
+
+	<!--<GAMETYPE id="22">	 GAMETYPE_PLAYER_WARS 
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="1"  str="1" />
+		<MAXPLAYERS player="2"  str="2" default="true" />
+		<MAXPLAYERS player="3" str="3" />
+		<MAXPLAYERS player="4" str="4" />
+		<MAXPLAYERS player="5" str="5" />
+		<MAXPLAYERS player="6" str="6" />	
+		<MAXPLAYERS player="7" str="7" />
+		<MAXPLAYERS player="8" str="8" />	
+	</GAMETYPE>		-->
+
+	<GAMETYPE id="22">	<!-- GAMETYPE_SPY -->
+		<ROUNDS    round="3"	str="3" default="true"/>
+		<ROUNDS    round="4"	str="4" />
+		<ROUNDS    round="5"	str="5" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="5"  str="5" />
+		<MAXPLAYERS player="6"  str="6" />
+		<MAXPLAYERS player="7"  str="7" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="9"  str="9" />
+		<MAXPLAYERS player="10"  str="10" />
+		<MAXPLAYERS player="11"  str="11" />
+		<MAXPLAYERS player="12"  str="12" />
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+	</GAMETYPE>	
+
+	<GAMETYPE id="23">	<!-- GAMETYPE_NINJA -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />
+	</GAMETYPE>
+
+	<GAMETYPE id="24">	<!-- GAMETYPE_NKS -->
+		<ROUNDS round="10"	str="10" default="true" /> 
+		<ROUNDS round="20"	str="20" /> 
+		<ROUNDS round="30"	str="30" /> 
+		<ROUNDS round="50"	str="50" /> 
+		<ROUNDS round="70"	str="70" />
+		<ROUNDS round="100"	str="100" /> 
+		<LIMITTIME sec="-1"	str="STR:GAMETYPECFG_LIMITTIME_INFINITE" />
+		<LIMITTIME sec="300000"		str="STR:GAMETYPECFG_LIMITTIME_5MIN"  />
+		<LIMITTIME sec="600000"		str="STR:GAMETYPECFG_LIMITTIME_10MIN" /> 
+		<LIMITTIME sec="1200000"	str="STR:GAMETYPECFG_LIMITTIME_20MIN" /> 
+		<LIMITTIME sec="1800000"	str="STR:GAMETYPECFG_LIMITTIME_30MIN" /> 
+		<LIMITTIME sec="2400000"	str="STR:GAMETYPECFG_LIMITTIME_40MIN" default="true" /> 
+		<LIMITTIME sec="3000000"	str="STR:GAMETYPECFG_LIMITTIME_50MIN" /> 
+		<LIMITTIME sec="3600000"	str="STR:GAMETYPECFG_LIMITTIME_60MIN" />
+		<MAXPLAYERS player="4"  str="4" />
+		<MAXPLAYERS player="8"  str="8" default="true" />
+		<MAXPLAYERS player="12" str="12" />
+		<MAXPLAYERS player="16" str="16" />
+		<MAXPLAYERS player="20" str="20" />
+		<MAXPLAYERS player="24" str="24" />	
+		<MAXPLAYERS player="28" str="28" />
+		<MAXPLAYERS player="32" str="32" />
+	</GAMETYPE>		
+	
+        <!-- GAMETYPE_MAGICBOX -->
+	<GAMETYPE id="25">	
+		<ROUNDS round="100"	str="100" default="true" /> 
+		<LIMITTIME sec="1800000"		str="STR:GAMETYPECFG_LIMITTIME_30MIN"  />
+		<MAXPLAYERS player="16"  str="16" default="true" />
+	</GAMETYPE>		
+
+</XML>

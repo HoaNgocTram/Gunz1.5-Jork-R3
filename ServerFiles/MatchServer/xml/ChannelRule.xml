@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" ?>
+
+<XML id="channelrule">
+
+	<CHANNELRULE id="0" name="novice">
+		<GAMETYPE id="0" />		
+		<GAMETYPE id="1" />		
+		<GAMETYPE id="2" />		
+		<GAMETYPE id="3" />		
+		<GAMETYPE id="4" />		
+		<GAMETYPE id="5" />		
+		<GAMETYPE id="6" />		
+		<GAMETYPE id="7" />	
+		<GAMETYPE id="8" />	
+		<GAMETYPE id="9" />
+		<GAMETYPE id="10" />
+		<GAMETYPE id="12" />
+		<GAMETYPE id="13" />
+		<GAMETYPE id="14" />
+		<GAMETYPE id="15" />
+		<GAMETYPE id="16" />
+		<GAMETYPE id="17" />
+		<GAMETYPE id="18" />
+		<GAMETYPE id="19" />	
+		<GAMETYPE id="20" />	
+		<GAMETYPE id="21" />
+		<GAMETYPE id="23" />
+		<GAMETYPE id="24" />		
+		<GAMETYPE id="22" />
+		<GAMETYPE id="25" />
+
+		<MAP name="RelayMap" />
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="High_Haven" />
+		<MAP name="Citadel" />
+		<MAP name="WeaponShop" />
+		<MAP name="Pavilion" />
+		<!-- MAP name="Snow_Town" / -->
+		<!-- <MAP name="Halloween Town" /> -->
+
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="1" name="newbie">
+		<GAMETYPE id="0" />		
+		<GAMETYPE id="1" />		
+		<GAMETYPE id="2" />		
+		<GAMETYPE id="3" />		
+		<GAMETYPE id="4" />		
+		<GAMETYPE id="5" />		
+		<GAMETYPE id="6" />		
+		<GAMETYPE id="7" />	
+		<GAMETYPE id="8" />	
+		<GAMETYPE id="9" />
+		<GAMETYPE id="10" />
+		<GAMETYPE id="12" />
+		<!--<GAMETYPE id="13" />
+		<GAMETYPE id="14" />
+		<GAMETYPE id="15" />
+		<GAMETYPE id="16" />
+		<GAMETYPE id="17" />
+		<GAMETYPE id="18" />
+		<GAMETYPE id="19" />	
+		<GAMETYPE id="20" />	
+		<GAMETYPE id="21" />
+		<GAMETYPE id="23" />
+		<GAMETYPE id="24" />		
+		<GAMETYPE id="22" />
+		<GAMETYPE id="25" />-->
+
+		<MAP name="RelayMap" />
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="High_Haven" />
+		<MAP name="Citadel" />
+		<MAP name="WeaponShop" />
+		<MAP name="Pavilion" />
+		<!-- MAP name="Snow_Town" / -->
+		<!-- <MAP name="Halloween Town" /> -->	
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="2" name="rookie">
+		<GAMETYPE id="0" />		
+		<GAMETYPE id="1" />		
+		<GAMETYPE id="2" />		
+		<GAMETYPE id="3" />		
+		<GAMETYPE id="4" />		
+		<GAMETYPE id="5" />		
+		<GAMETYPE id="6" />		
+		<GAMETYPE id="7" />	
+		<GAMETYPE id="8" />	
+		<GAMETYPE id="9" />
+		<GAMETYPE id="10" />
+		<GAMETYPE id="12" />
+		<!--<GAMETYPE id="13" />
+		<GAMETYPE id="14" />
+		<GAMETYPE id="15" />
+		<GAMETYPE id="16" />
+		<GAMETYPE id="17" />
+		<GAMETYPE id="18" />
+		<GAMETYPE id="19" />	
+		<GAMETYPE id="20" />	
+		<GAMETYPE id="21" />
+		<GAMETYPE id="23" />
+		<GAMETYPE id="24" />		
+		<GAMETYPE id="22" />
+		<GAMETYPE id="25" />-->
+
+		<MAP name="RelayMap" />
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="Ruin" />
+		<MAP name="Port" />
+		<MAP name="High_Haven" />
+		<MAP name="Citadel" />
+		<MAP name="WeaponShop" />
+		<MAP name="Pavilion" />
+		<!-- MAP name="Snow_Town" / -->
+		<!-- <MAP name="Halloween Town" /> -->
+
+		<MAP name="Hall" />			<!-- Only DUEL -->
+		<MAP name="Catacomb" />		<!-- Only DUEL -->
+		<MAP name="Jail" />			<!-- Only DUEL -->
+		<MAP name="Shower Room" />	<!-- Only DUEL -->
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="3" name="mastery">
+		<GAMETYPE id="0" />		
+		<GAMETYPE id="1" />		
+		<GAMETYPE id="2" />		
+		<GAMETYPE id="3" />		
+		<GAMETYPE id="4" />		
+		<GAMETYPE id="5" />		
+		<GAMETYPE id="6" />		
+		<GAMETYPE id="7" />	
+		<GAMETYPE id="8" />	
+		<GAMETYPE id="9" />
+		<GAMETYPE id="10" />
+		<GAMETYPE id="12" />
+		<!--<GAMETYPE id="13" />
+		<GAMETYPE id="14" />
+		<GAMETYPE id="15" />
+		<GAMETYPE id="16" />
+		<GAMETYPE id="17" />
+		<GAMETYPE id="18" />
+		<GAMETYPE id="19" />	
+		<GAMETYPE id="20" />	
+		<GAMETYPE id="21" />
+		<GAMETYPE id="23" />
+		<GAMETYPE id="24" />		
+		<GAMETYPE id="22" />
+		<GAMETYPE id="25" />-->
+		
+		<MAP name="RelayMap" />
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="Ruin" />
+		<MAP name="Port" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="High_Haven" />
+		<MAP name="Citadel" />
+		<MAP name="WeaponShop" />
+		<MAP name="Pavilion" />
+		<!-- MAP name="Snow_Town" / -->
+		<!-- <MAP name="Halloween Town" /> -->
+
+		<MAP name="Hall" />			<!-- Only DUEL -->
+		<MAP name="Catacomb" />		<!-- Only DUEL -->
+		<MAP name="Jail" />			<!-- Only DUEL -->
+		<MAP name="Shower Room" />	<!-- Only DUEL -->
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="4" name="elite">
+		<GAMETYPE id="0" />		
+		<GAMETYPE id="1" />		
+		<GAMETYPE id="2" />		
+		<GAMETYPE id="3" />		
+		<GAMETYPE id="4" />		
+		<GAMETYPE id="5" />		
+		<GAMETYPE id="6" />		
+		<GAMETYPE id="7" />	
+		<GAMETYPE id="8" />	
+		<GAMETYPE id="9" />
+		<GAMETYPE id="10" />
+		<GAMETYPE id="12" />
+		<!--<GAMETYPE id="13" />
+		<GAMETYPE id="14" />
+		<GAMETYPE id="15" />
+		<GAMETYPE id="16" />
+		<GAMETYPE id="17" />
+		<GAMETYPE id="18" />
+		<GAMETYPE id="19" />	
+		<GAMETYPE id="20" />	
+		<GAMETYPE id="21" />
+		<GAMETYPE id="23" />
+		<GAMETYPE id="24" />		
+		<GAMETYPE id="22" />
+		<GAMETYPE id="25" />-->
+
+		<MAP name="RelayMap" />
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="High_Haven" />
+		<MAP name="Citadel" />
+		<MAP name="WeaponShop" />
+		<MAP name="Ruin" />
+		<MAP name="Port" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="Lost Shrine" />
+		<MAP name="Stairway" />
+		<MAP name="Pavilion" />
+
+		<!--<MAP name="Snow_Town" />-->
+		<MAP name="Halloween Town" /> 
+		<MAP name="Hall" /> <!-- Only DUEL -->
+		<MAP name="Catacomb" /> <!-- Only DUEL -->
+		<MAP name="Jail" /> <!-- Only DUEL -->
+		<MAP name="Shower Room" /> <!-- Only DUEL -->
+
+		<MAP name="Hall" />			<!-- Only DUEL -->
+		<MAP name="Catacomb" />		<!-- Only DUEL -->
+		<MAP name="Jail" />			<!-- Only DUEL -->
+		<MAP name="Shower Room" />	<!-- Only DUEL -->
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="5" name="champion">
+		<GAMETYPE id="0" />		
+		<GAMETYPE id="1" />		
+		<GAMETYPE id="2" />		
+		<GAMETYPE id="3" />		
+		<GAMETYPE id="4" />		
+		<GAMETYPE id="5" />		
+		<GAMETYPE id="6" />		
+		<GAMETYPE id="7" />	
+		<GAMETYPE id="8" />	
+		<GAMETYPE id="9" />
+		<GAMETYPE id="10" />
+		<GAMETYPE id="12" />
+		<!--<GAMETYPE id="13" />
+		<GAMETYPE id="14" />
+		<GAMETYPE id="15" />
+		<GAMETYPE id="16" />
+		<GAMETYPE id="17" />
+		<GAMETYPE id="18" />
+		<GAMETYPE id="19" />	
+		<GAMETYPE id="20" />	
+		<GAMETYPE id="21" />
+		<GAMETYPE id="23" />
+		<GAMETYPE id="24" />		
+		<GAMETYPE id="22" />
+		<GAMETYPE id="25" />-->
+
+		<MAP name="RelayMap" />
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Island" />
+		<MAP name="Garden" />
+		<MAP name="Station" />
+		<MAP name="Battle Arena" />
+		<MAP name="Factory" />
+		<MAP name="Town" />
+		<MAP name="Ruin" />
+		<MAP name="Port" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="Lost Shrine" />
+		<MAP name="Stairway" />
+		<MAP name="High_Haven" />
+		<MAP name="Citadel" />
+		<MAP name="WeaponShop" />
+		<MAP name="Pavilion" />
+		<!-- MAP name="Snow_Town" / -->
+		<!-- <MAP name="Halloween Town" /> -->
+
+		<MAP name="Hall" />			<!-- Only DUEL -->
+		<MAP name="Catacomb" />		<!-- Only DUEL -->
+		<MAP name="Jail" />			<!-- Only DUEL -->
+		<MAP name="Shower Room" />	<!-- Only DUEL -->
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="6" name="quest">
+		<GAMETYPE id="7" />			<!-- GAMETYPE_QUEST -->
+		<GAMETYPE id="6" />			<!-- GAMETYPE_SURVIVAL -->
+
+		<MAP name="Mansion" />
+		<MAP name="Prison" />
+		<MAP name="Dungeon" />
+	</CHANNELRULE>
+	
+	
+	<CHANNELRULE id="7" name="dueltournament">
+		<GAMETYPE id="11" />		<!-- GAMETYPE_DUELTOURNAMENT -->
+		
+		<MAP name="Hall" />			<!-- Only DUEL -->
+		<MAP name="Catacomb" />		<!-- Only DUEL -->
+		<MAP name="Jail" />			<!-- Only DUEL -->
+		<MAP name="Shower Room" />		<!-- Only DUEL -->
+	</CHANNELRULE>
+
+</XML>

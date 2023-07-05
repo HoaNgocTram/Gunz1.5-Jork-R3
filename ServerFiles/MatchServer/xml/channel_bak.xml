@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="channel">
+	<DEFAULTCHANNELNAME name="STR:CHANNEL_DEFAULT_NAME"/>
+	<DEFAULTRULENAME name="novice"/>
+
+	<CHANNEL name="STR:CHANNEL_NOVICE_NAME" maxplayers="50" rule="novice"/>
+	<CHANNEL name="Lead" maxplayers="50" rule="novice"/>
+	<CHANNEL name="Event" maxplayers="50" rule="elite"/>
+	<CHANNEL name="Newbie Channel [1-25]" maxplayers="50" rule="newbie" levelmin='1' levelmax='25'/>
+	<CHANNEL name="Newbie Channel 2 [1-25]" maxplayers="50" rule="newbie" levelmin='1' levelmax='25'/>
+	<CHANNEL name="Ultra Channel [25-60]" maxplayers="50" rule="elite" levelmin='25' levelmax='60'/>
+	<CHANNEL name="Ultra Channel 2 [25-60]" maxplayers="50" rule="elite" levelmin='25' levelmax='60'/>
+	<CHANNEL name="Elite Channel [60+]" maxplayers="50" rule="elite" levelmin='60' />
+	<CHANNEL name="Elite Channel 2 [60+]" maxplayers="50" rule="elite" levelmin='60' />
+	<CHANNEL name="Legend Channel [120+]" maxplayers="50" rule="elite" levelmin='120'/>
+	
+	<CHANNEL name="Duel Tournament" maxplayers="50" rule="dueltournament" IsDuelTournament="true"/>
+	<CHANNEL name="Mode Ladder" maxplayers="50" IsPlayerWars="true"/>
+
+</XML>
